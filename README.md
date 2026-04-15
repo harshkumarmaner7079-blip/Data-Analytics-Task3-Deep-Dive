@@ -6,7 +6,7 @@ This is the final phase of the Data Analytics internship at **ApexPlanet Softwar
 ---
 
 ## **🚀 [Live Interactive Dashboard Link]**
-> **Click here to view the live dashboard:** `https://datastudio.google.com/reporting/b74676c8-d4d6-4574-bee2-7521beef4db6`
+> [**Click here to view the live dashboard:**](https://datastudio.google.com/reporting/b74676c8-d4d6-4574-bee2-7521beef4db6)
 
 ---
 
