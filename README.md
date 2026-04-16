@@ -54,3 +54,4 @@ The final tool was built in **Looker Studio** to provide real-time data accessib
 * **Category Drill-Down:** A breakdown of which departments (like Butchers and Furniture) drive the highest margins.
 * **Segment Performance View:** A stacked comparison showing how many sales in each category depend on discounts.
 
+[⬅️ Back to Master Portfolio](https://github.com/harshkumarmaner7079-blip/ApexPlanet-Data-Analytics-Internship-Portfolio)
